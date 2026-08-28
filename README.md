@@ -2,21 +2,41 @@
 
 Hi, I'm Bishakha Biswal, an aspiring Data Analyst.
 
-This repository documents my SQL learning journey, practical SQL problem-solving, and data analytics projects.
+This repository documents my journey of mastering SQL through structured practice, real-world business problems, and data analytics projects.
+
+## 🎯 Objective
+
+To demonstrate my ability to use SQL for:
+
+- Data extraction
+- Data filtering
+- Data transformation
+- Business analysis
+- KPI calculation
+- Identifying trends and patterns
+- Solving real-world analytical problems
 
 ## 🛠️ SQL Skills
 
-- SELECT & filtering
-- Sorting and limiting results
-- Aggregate functions
-- GROUP BY & HAVING
+- SELECT & FROM
+- WHERE
+- DISTINCT
+- ORDER BY
+- LIMIT
+- AND / OR
+- IN
+- BETWEEN
+- LIKE
+- NULL handling
+- Aggregate Functions
+- GROUP BY
+- HAVING
 - JOINs
 - CASE WHEN
-- Subqueries
 - CTEs
+- Subqueries
 - Window Functions
-- Date & string functions
-- Business analysis using SQL
+- Date & String Functions
 
 ## 📂 Portfolio Structure
 
@@ -25,7 +45,7 @@ This repository documents my SQL learning journey, practical SQL problem-solving
 | 01_sql_fundamentals | SELECT, WHERE, DISTINCT, ORDER BY, LIMIT |
 | 02_aggregations | COUNT, SUM, AVG, GROUP BY, HAVING |
 | 03_joins | INNER JOIN, LEFT JOIN, multi-table analysis |
-| 04_case_dates_strings | CASE WHEN, dates, text manipulation |
+| 04_case_dates_strings | CASE WHEN, date & string functions |
 | 05_ctes_subqueries | CTEs and subqueries |
 | 06_window_functions | RANK, ROW_NUMBER, LAG, LEAD |
 | 07_ecommerce_sql_project | End-to-end SQL business analysis |
@@ -43,10 +63,19 @@ An end-to-end SQL project analyzing:
 - Customer segmentation
 - Month-over-month growth
 
-## 🎯 Objective
+## 📈 Learning Progress
 
-The goal of this portfolio is to demonstrate my ability to use SQL not only to retrieve data, but also to solve real-world business problems and generate actionable insights.
+- [x] SQL Fundamentals
+- [ ] Aggregate Functions & GROUP BY
+- [ ] JOINs
+- [ ] CASE WHEN & Functions
+- [ ] CTEs & Subqueries
+- [ ] Window Functions
+- [ ] E-Commerce SQL Project
+- [ ] SQL Interview Preparation
 
-## 📈 Currently Learning
+## 💡 Approach
 
-Advanced SQL and Data Analytics.
+I am focusing on understanding **why** a query works rather than simply memorizing SQL syntax.
+
+The goal is to use SQL to answer real business questions and convert data into actionable insights.
